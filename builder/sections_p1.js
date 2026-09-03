@@ -182,14 +182,14 @@ module.exports = function getSectionsP1() {
           <div class="photo-img-wrap photo-video-wrap">
             <video
               id="champion-video"
-              src="MAIN_1.mp4"
               controls
               playsinline
               loop
-              preload="auto"
+              preload="metadata"
               poster="assets/images/recap-chung-ket-poster.jpg"
               class="responsive-video"
             >
+              <source src="MAIN_1.mp4" type="video/mp4" />
               Trình duyệt của bạn không hỗ trợ phát video HTML5.
             </video>
             <button type="button" class="video-sound-toggle-btn unmuted" id="videoSoundToggle" aria-label="Bật/Tắt âm thanh">

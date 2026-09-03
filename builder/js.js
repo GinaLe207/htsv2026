@@ -569,8 +569,10 @@ function initScrollAutoplayVideo() {
   function startAutoplay() {
     if (userManuallyPaused) return;
 
-    if (!hasInitializedTime && video.currentTime < 0.8) {
-      video.currentTime = 0.8;
+    if (!hasInitializedTime && video.readyState >= 1 && video.currentTime < 0.8) {
+      try {
+        video.currentTime = 0.8;
+      } catch (e) {}
       hasInitializedTime = true;
     }
 
