@@ -1,6 +1,7 @@
-﻿# Video files (>100MB exceeds GitHub limits)
-MAIN_1.mp4
-*.mp4
+﻿# Large original backup files
+*_original*.*
+*.zip
+*.tar.gz
 
 # OS generated files
 Thumbs.db
