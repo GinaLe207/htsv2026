@@ -1,0 +1,7 @@
+﻿# Video files (>100MB exceeds GitHub limits)
+MAIN_1.mp4
+*.mp4
+
+# OS generated files
+Thumbs.db
+.DS_Store

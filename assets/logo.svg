@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b2447"/>
+      <stop offset="100%" stop-color="#04101e"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffd166"/>
+      <stop offset="100%" stop-color="#f4a261"/>
+    </linearGradient>
+  </defs>
+  <circle cx="100" cy="100" r="96" fill="url(#bgGrad)" stroke="url(#goldGrad)" stroke-width="4"/>
+  <circle cx="100" cy="100" r="86" fill="none" stroke="rgba(255,209,102,0.4)" stroke-width="1.5" stroke-dasharray="4 3"/>
+  
+  <g transform="translate(100, 92) scale(0.95)">
+    <path d="M -40 25 Q -20 15 0 20 Q 20 15 40 25 L 36 38 Q 20 28 0 32 Q -20 28 -36 38 Z" fill="url(#goldGrad)"/>
+    <path d="M 0 -38 C 12 -24 16 -12 10 2 C 22 -6 18 -26 0 -38 Z" fill="#FF4500"/>
+    <path d="M 0 -38 C -12 -24 -16 -12 -10 2 C -22 -6 -18 -26 0 -38 Z" fill="#FF6347"/>
+    <path d="M 0 -28 C 6 -18 8 -8 4 4 C -4 4 -8 -8 0 -28 Z" fill="#ffd166"/>
+    <polygon points="0,-8 2.5,-2 8.5,-2 3.5,2 5.5,8 0,4.5 -5.5,8 -3.5,2 -8.5,-2 -2.5,-2" fill="#FFFFFF"/>
+  </g>
+
+  <text x="100" y="38" font-family="'Inter', sans-serif" font-weight="800" font-size="9.5" fill="#ffd166" text-anchor="middle" letter-spacing="1.5">ĐOÀN TNCS HỒ CHÍ MINH</text>
+  <text x="100" y="52" font-family="'Inter', sans-serif" font-weight="700" font-size="10.5" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">HỌC VIỆN TÀI CHÍNH</text>
+  
+  <rect x="35" y="140" width="130" height="22" rx="11" fill="url(#goldGrad)"/>
+  <text x="100" y="155" font-family="'Inter', sans-serif" font-weight="800" font-size="10" fill="#04101e" text-anchor="middle" letter-spacing="0.5">BAN VĂN PHÒNG</text>
+  <text x="100" y="178" font-family="'Inter', sans-serif" font-weight="700" font-size="10" fill="#ffd166" text-anchor="middle" letter-spacing="2">HTSV 2026</text>
+</svg>

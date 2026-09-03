@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60">
+  <g transform="translate(15, 12)">
+    <text x="0" y="30" font-family="'Inter', -apple-system, sans-serif" font-weight="800" font-size="28" fill="#005baa" letter-spacing="-0.5">mobi<tspan fill="#e30613">fone</tspan></text>
+    <circle cx="160" cy="22" r="7" fill="#e30613" />
+    <circle cx="178" cy="22" r="5" fill="#005baa" />
+  </g>
+</svg>
