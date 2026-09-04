@@ -247,8 +247,7 @@ module.exports = function getSectionsP2() {
               <li><i class="fa-solid fa-check"></i> Logo kích thước nhỏ trên ấn phẩm</li>
               <li><i class="fa-solid fa-check"></i> <strong>02 Vé VIP</strong> tham dự chung kết</li>
               <li><i class="fa-solid fa-check"></i> Nhận Thư cảm ơn & GCN tài trợ</li>
-              <li><i class="fa-solid fa-check"></i> Đặt standee có mã QR tại sự kiện</li>
-              <li><i class="fa-solid fa-check"></i> Nhận <strong>25% Database</strong> người tham gia</li>
+              <li><i class="fa-solid fa-check"></i> Đặt booth trong khuôn viên Học viện Tài chính</li>
               <li><i class="fa-solid fa-check"></i> <strong>01 bài PR</strong> trên Fanpage</li>
             </ul>
             <a href="#lien-he" class="tier-cta-btn">Chọn Gói Đồng</a>
@@ -269,8 +268,7 @@ module.exports = function getSectionsP2() {
               <li><i class="fa-solid fa-check"></i> Logo kích thước vừa trên ấn phẩm</li>
               <li><i class="fa-solid fa-check"></i> <strong>03 Vé VIP</strong> tham dự chung kết</li>
               <li><i class="fa-solid fa-check"></i> MC đọc lời cảm ơn & tri ân</li>
-              <li><i class="fa-solid fa-check"></i> Đặt standee có mã QR tại sự kiện</li>
-              <li><i class="fa-solid fa-check"></i> Nhận <strong>50% Database</strong> người tham gia</li>
+              <li><i class="fa-solid fa-check"></i> Đặt booth trong khuôn viên Học viện Tài chính</li>
               <li><i class="fa-solid fa-check"></i> <strong>01 bài PR</strong> trên Fanpage</li>
             </ul>
             <a href="#lien-he" class="tier-cta-btn">Chọn Gói Bạc</a>
@@ -292,8 +290,7 @@ module.exports = function getSectionsP2() {
               <li><i class="fa-solid fa-check"></i> Quyền lợi nhận diện <strong>độc tôn, lớn nhất</strong></li>
               <li><i class="fa-solid fa-check"></i> <strong>08 Vé VIP</strong> tham dự chung kết</li>
               <li><i class="fa-solid fa-check"></i> Đại diện phát biểu trong chương trình</li>
-              <li><i class="fa-solid fa-check"></i> Đặt photobooth, booth check-in, standee</li>
-              <li><i class="fa-solid fa-check"></i> Nhận <strong>100% Database</strong> người tham gia</li>
+              <li><i class="fa-solid fa-check"></i> Đặt photobooth, booth trong khuôn viên Học viện Tài chính</li>
               <li><i class="fa-solid fa-check"></i> <strong>03 bài PR độc lập</strong> trên Fanpage</li>
               <li><i class="fa-solid fa-check"></i> Cố vấn học thuật dài hạn cho cuộc thi</li>
             </ul>
@@ -315,8 +312,7 @@ module.exports = function getSectionsP2() {
               <li><i class="fa-solid fa-check"></i> Logo kích thước lớn trên ấn phẩm</li>
               <li><i class="fa-solid fa-check"></i> <strong>04 Vé VIP</strong> tham dự chung kết</li>
               <li><i class="fa-solid fa-check"></i> MC đọc lời cảm ơn, trao hoa & quà</li>
-              <li><i class="fa-solid fa-check"></i> Đặt booth, standee tại check-in</li>
-              <li><i class="fa-solid fa-check"></i> Nhận <strong>70% Database</strong> người tham gia</li>
+              <li><i class="fa-solid fa-check"></i> Đặt booth trong khuôn viên Học viện Tài chính</li>
               <li><i class="fa-solid fa-check"></i> <strong>02 bài PR</strong> trên Fanpage</li>
             </ul>
             <a href="#lien-he" class="tier-cta-btn">Chọn Gói Vàng</a>
@@ -337,8 +333,7 @@ module.exports = function getSectionsP2() {
               <li><i class="fa-solid fa-check"></i> Logo kích thước nổi bật trên mọi ấn phẩm</li>
               <li><i class="fa-solid fa-check"></i> <strong>05 Vé VIP</strong> tham dự chung kết</li>
               <li><i class="fa-solid fa-check"></i> Đại diện phát biểu trong chương trình</li>
-              <li><i class="fa-solid fa-check"></i> Đặt booth, standee mã QR tại check-in</li>
-              <li><i class="fa-solid fa-check"></i> Nhận <strong>100% Database</strong> người tham gia</li>
+              <li><i class="fa-solid fa-check"></i> Đặt booth trong khuôn viên Học viện Tài chính</li>
               <li><i class="fa-solid fa-check"></i> <strong>02 bài PR</strong> trên Fanpage</li>
             </ul>
             <a href="#lien-he" class="tier-cta-btn">Chọn Gói Bạch Kim</a>

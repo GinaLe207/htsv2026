@@ -243,14 +243,6 @@ module.exports = function getSectionsP3() {
                   <td class="bronze"><i class="fa-solid fa-check check-icon"></i></td>
                 </tr>
                 <tr>
-                  <td>Được nhận database của người tham gia sự kiện (nếu yêu cầu)</td>
-                  <td class="diamond"><strong>100%</strong></td>
-                  <td class="platinum"><strong>100%</strong></td>
-                  <td class="gold"><strong>70%</strong></td>
-                  <td class="silver"><strong>50%</strong></td>
-                  <td class="bronze"><strong>25%</strong></td>
-                </tr>
-                <tr>
                   <td>Nhận được sự hỗ trợ tốt nhất, ưu tiên trong các sự kiện quảng bá, giới thiệu, tuyển dụng</td>
                   <td class="diamond"><i class="fa-solid fa-check check-icon"></i></td>
                   <td class="platinum"><i class="fa-solid fa-check check-icon"></i></td>
